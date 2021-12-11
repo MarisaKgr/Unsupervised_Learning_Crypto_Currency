@@ -1,6 +1,6 @@
 # Cryptocurrency Clusters
 
-## Conclusion:
+## Conclusion/Recommendation:
 The K-Means plot shows the elbow to be approximately at 4. Using 4 clusters for predictions and a learning rate of 250 the plot of TSNE features shows four distinct clusters. The client can reasonibly cluster the cryptocurrencies using ideally 4 clusters.
 
 ## Background
